@@ -122,4 +122,17 @@ Servlet과 JSP 기반의 서버 & 클라이언트 프로젝트인 티켓 구매 
     </tr>
 </table>
 
+### :mega: 프로젝트 소감
+
+<table style="width:500px;">
+    <tr>
+        <th>한시연</th>
+    </tr>
+    <tr>
+        <td>
+            서버와 클라이언트쪽을 구현하면서 실시간으로 Oracle에서 데이터를 가져오면서 CRUD, Ajax, 게시판을 구현하는 <br> 
+            방법을 익힐 수 있었습니다.<br> 
+        </td>
+    </tr>
+</table>
 
