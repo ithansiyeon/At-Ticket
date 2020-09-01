@@ -26,9 +26,7 @@
     </tr>
       <tr>
         <th>프로젝트 개요</th>
-        <th>티켓 사이트</th>
-        <th>개발환경&nbsp;</th>
-        <th>Windows10</th>
+        <th colspan="3">티켓 사이트</th>
     </tr>
     <tr>
         <th colspan="5">사용 도구</th>
